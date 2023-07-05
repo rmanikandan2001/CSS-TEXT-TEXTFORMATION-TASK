@@ -1,0 +1,120 @@
+table,th,td{
+BORDER:1px solid yellow;
+border-collapse:collapse;
+background-color:skyblue;
+text-align:auto;
+}
+
+.is{
+	color:red;
+}
+.was{
+  color:#3cb371;
+}
+.so{
+	color:rgb(225,0,0);
+}
+
+.the{
+	background-color:yellow;
+	text-align:center;
+}
+.that{
+	text-align:center;
+}
+
+.this{
+	text-align:last;
+}
+
+.th{
+	text-align:right;
+}
+.ts{
+	text-align:left;
+}
+	
+.ps{
+	text-align:justify;
+}
+.has{
+	direction:rtl;
+    unicode-bidi:bidi-override;
+}
+.have{
+	vertical-align:baseline;
+}
+.his{
+	vertical-align:text-top;
+}
+.her{
+	vertical-align:text-bottom;
+}
+.op{
+	vertical-align:sub;
+}
+.op{
+	vertical-align:sup;
+}
+.as{
+	text-decoration-line:underline;
+}
+.ad{
+	color:yellow;
+}
+.af{
+	text-decoration-style:wavy;
+}
+.ag{
+	text-decoration-thickness:23px;
+}
+
+.ah{
+	text-decoration-line:overline;
+}
+.aj{
+	text-decoration-line:line-through;
+}
+
+.ak{
+	text-decoration-line:underline;
+}
+.al{
+	text-decoration-line:overline underline;
+}
+.qw{
+	text-transform:uppercase;
+}
+.qe{
+	text-transform:lowercase;
+}
+.qr{
+	text-transform:capitalize;
+}
+.qt{
+	text-indent:50px;
+}
+.qy{
+	letter-spacing:2px;
+}
+.qu{
+	line-height:6px;
+}
+.qi{
+	word-spacing:3px;
+}
+.qo{
+	white-space:nowrap;
+}
+.qp{
+	text-shadow:5px 5px 5px blue;
+}
+.zx{
+	text-shadow:5px 5px blue;
+}
+.zc{
+	text-shadow:2px 2px 5px yellow;
+}
+
+
+
